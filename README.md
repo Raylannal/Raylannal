@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá, Sou Raylanna 👋
 
-<!--
-**Raylannal/Raylannal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora Web Jr. | Apaixonada por Tecnologia
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um desenvolvedora com uma paixão por criar soluções tecnológicas. Minha jornada na programação começou com um interesse profundo em construir coisas e evoluiu para uma carreira emocionante na área de desenvolvimento de software.
+
+## Habilidades
+
+- Front-end: React, Next.js, HTML, CSS, JavaScript, TypeScript
+- Back-end: Node, Nest.js
+- Bancos de Dados: MySQL, MongoDB, postgresql
+
+## Entre em Contato
+
+- LinkedIn: https://www.linkedin.com/in/raylanna-lara/
+- Email: raylanna.l@hotmail.com
